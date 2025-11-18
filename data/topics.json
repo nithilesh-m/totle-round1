@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Machine Learning", "category": "AI" },
+  { "id": 2, "name": "Deep Learning", "category": "AI" },
+  { "id": 3, "name": "Node.js Basics", "category": "Backend" },
+  { "id": 4, "name": "Express Routing", "category": "Backend" },
+  { "id": 5, "name": "MongoDB CRUD", "category": "Database" }
+]
